@@ -29,7 +29,7 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/kuzum09/Ai-System-Devlopment-Assignemnt-1/tree/main>
+git clone <https://github.com/kuzum09/Ai-System-Devlopment-Assignemnt-1>
 cd <project-directory>
 ```
 
