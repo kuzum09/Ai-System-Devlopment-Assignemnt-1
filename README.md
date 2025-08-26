@@ -1,12 +1,13 @@
 # AI-Systems-Development
 
-### Kusum Patel
 
-### DSAI
+### Name : Kusum Patel
 
-### 221020436
+### Branch : DSAI
 
-````markdown
+### Roll No. : 221020436
+
+
 # 🎬 Semantic Search on Movie Plots
 
 This project implements a **semantic search engine** in Python to find movies based on plot similarity. It uses **Sentence Transformers** to generate embeddings for movie plots and **cosine similarity** to retrieve the most relevant results.
@@ -31,7 +32,8 @@ Follow these steps to set up and run the project locally:
 git clone <your-repo-url>
 cd <project-directory>
 ```
-````
+
+
 
 ### 2. Create and activate a virtual environment
 
@@ -124,4 +126,3 @@ for r in results:
 
 ```
 
-```
