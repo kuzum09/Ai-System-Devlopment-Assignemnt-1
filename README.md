@@ -124,5 +124,5 @@ for r in results:
 - **scikit-learn** for cosine similarity
 - **pandas & numpy** for data handling
 
-```
+
 
